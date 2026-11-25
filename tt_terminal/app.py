@@ -1,3 +1,4 @@
+#Просьба отметить меня @ogurchick.dev в ваших видео, будет интересно взглянуть на них
 import argparse
 from pathlib import Path
 import sys
